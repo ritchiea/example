@@ -1,0 +1,2 @@
+walter looks like he got a haircut, and hes looking sharp > devin_text.txt
+echo walter looks like he got a haircut, and hes looking sharp
